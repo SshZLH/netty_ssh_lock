@@ -1,0 +1,1 @@
+java -cp .\conf -Djava.ext.dirs=.\lib  com.wanhuchina.lock.provider.startup.Application

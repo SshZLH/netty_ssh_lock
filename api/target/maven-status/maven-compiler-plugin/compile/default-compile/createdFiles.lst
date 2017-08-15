@@ -1,0 +1,5 @@
+com\wanhuchina\lock\startup\Application.class
+com\wanhuchina\lock\controller\SignUtil.class
+com\wanhuchina\lock\controller\health\HealthController.class
+com\wanhuchina\lock\controller\cabinet\CommandController.class
+com\wanhuchina\lock\controller\cabinet\OpenLockManagerController.class

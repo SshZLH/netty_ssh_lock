@@ -1,0 +1,5 @@
+com\wanhuchina\lock\service\redis\RedisService.class
+com\wanhuchina\lock\service\MonitoringService.class
+com\wanhuchina\lock\service\LockManagerService.class
+com\wanhuchina\lock\service\ChangeLockService.class
+com\wanhuchina\lock\service\CommandService.class
